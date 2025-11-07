@@ -5,30 +5,21 @@ This project presents an interactive HR Analytics Dashboard designed in Microsof
 
 # 🧩 Key Features
 
- # Employee Overview:
- Displays total employees with gender distribution (male vs female).
+ Employee Overview: Displays total employees with gender distribution (male vs female).
 
-# Skills Breakdown:
-Highlights core competencies like Communication, Design, Excel, Management, and Python.
+Skills Breakdown: Highlights core competencies like Communication, Design, Excel, Management, and Python.
 
-# Work Location Analysis:
-Shows the number of employees across remote, head office, and branch locations.
+Work Location Analysis: Shows the number of employees across remote, head office, and branch locations.
 
-# Age and Gender Insights: 
-Visualizes employee count across different age groups and genders.
+Age and Gender Insights: Visualizes employee count across different age groups and genders.
 
-# Leave Tracking:
-Tracks the number of leaves taken by job titles (Analyst, Developer, Manager, etc.).
+Leave Tracking: Tracks the number of leaves taken by job titles (Analyst, Developer, Manager, etc.).
 
-# Salary Distribution:
+Salary Distribution: Summarizes total and department-wise salary expenses.
 
-Summarizes total and department-wise salary expenses.
+Status Breakdown: Distinguishes full-time, part-time, and contractual employees.
 
-# Status Breakdown:
-Distinguishes full-time, part-time, and contractual employees.
-
-# Interactive Slicers:
-Allows dynamic filtering by gender and department to view updated insights instantly.
+Interactive Slicers: Allows dynamic filtering by gender and department to view updated insights instantly.
 
 # 🛠 Tools and Techniques Used
 
